@@ -30,5 +30,4 @@ This project is a full-stack Machine Learning web application that recommends re
 
 ---
 
-## 🗂 Project Structure
 
